@@ -1,4 +1,4 @@
-package com.realspeed.central.docs.config.swagger;
+package com.allianz.central.docs.config.swagger;
 
 import java.util.ArrayList;
 import java.util.List;

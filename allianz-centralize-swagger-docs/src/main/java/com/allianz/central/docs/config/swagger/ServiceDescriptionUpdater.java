@@ -1,4 +1,4 @@
-package com.realspeed.central.docs.config.swagger;
+package com.allianz.central.docs.config.swagger;
 
 import java.time.LocalDate;
 import java.util.List;

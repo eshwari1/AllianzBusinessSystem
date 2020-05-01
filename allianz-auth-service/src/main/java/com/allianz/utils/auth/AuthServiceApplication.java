@@ -42,6 +42,7 @@ public class AuthServiceApplication {
                 .protocols(new HashSet<>(Arrays.asList("http", "https"))).select()
                 .apis(RequestHandlerSelectors.any())
                 .paths(Predicates.not(PathSelectors.regex("/error.*")))
+                .paths(Predicates.not(PathSelectors.regex("/actuator.*")))
                 .build()
                 .apiInfo(ApiInfo.DEFAULT);
     }

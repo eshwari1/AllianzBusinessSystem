@@ -1,4 +1,4 @@
-package com.realspeed.central.docs;
+package com.allianz.central.docs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
