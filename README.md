@@ -29,4 +29,5 @@ This is a Microservice Project where we will have below microservices.
 18. Code Coverage Tools
 19. Sonar configuration.
 20. PMD Check Style for java coding practice 
+21. Spring Profile
 ~~~
