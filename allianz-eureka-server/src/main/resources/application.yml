@@ -1,6 +1,6 @@
 spring:
   application:
-    name: central-doce-eureka-server
+    name: allianz-eureka-server
 server:
   port: 8761
 logging:
