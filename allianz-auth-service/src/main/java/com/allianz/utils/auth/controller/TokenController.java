@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.allianz.utils.auth.model.JwtUser;
-import com.allianz.utils.auth.security.JwtUtil;
+import com.allianz.utils.auth.service.JwtUtil;
 
 @RestController
 @RequestMapping("/token")

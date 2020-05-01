@@ -1,4 +1,4 @@
-package com.allianz.utils.auth.security;
+package com.allianz.utils.auth.service;
 
 import java.util.Date;
 
@@ -22,7 +22,7 @@ public class JwtUtil {
 	@Value("${jwt.client.secret}")
 	private String secret;
 
-	//30 Sec
+	//300 Sec
 	public static final long JWT_TOKEN_VALIDITY = 300;
 
 	@Autowired
