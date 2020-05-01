@@ -30,4 +30,5 @@ This is a Microservice Project where we will have below microservices.
 19. Sonar configuration.
 20. PMD Check Style for java coding practice 
 21. Spring Profile
+22. Centralize Swagger Docs for entire microservices.
 ~~~
