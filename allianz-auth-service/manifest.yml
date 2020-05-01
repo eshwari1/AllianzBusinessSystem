@@ -7,3 +7,4 @@ applications:
 #  buildpack: java_buildpack
   path: target/allianz-auth-service-0.0.1-SNAPSHOT.jar
   domain: cfapps.io
+# https://allianz-auth-service.cfapps.io/
