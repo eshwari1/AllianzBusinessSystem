@@ -1,0 +1,9 @@
+---
+applications:
+- name: allianz-product-service
+#  random-route: true
+  instances: 1
+  memory: 650M
+#  buildpack: java_buildpack
+  path: target/allianz-product-service-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
