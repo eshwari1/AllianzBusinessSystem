@@ -5,7 +5,7 @@ This is a Microservice Project where we will have below microservices.
  3. allianz-person-service
  4. allianz-product-service 
  5. allianz-contract-service
- 6. allianz-eureka-server
+ 6. allianz-eureka-server [https://allianz-eureka-server.cfapps.io/]
  7. allianz-centralize-swagger-docs
 
 ~~~
