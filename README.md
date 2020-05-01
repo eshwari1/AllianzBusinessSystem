@@ -1,10 +1,12 @@
 # AllianzBusinessSystem
 This is a Microservice Project where we will have below microservices.
- 1. allianz-auth-service
+ 1. allianz-auth-service  [https://allianz-auth-service.cfapps.io/swagger-ui.html]
  2. allianz-config-server
  3. allianz-person-service
- 4. allianz-product-service
+ 4. allianz-product-service 
  5. allianz-contract-service
+ 6. allianz-eureka-server
+ 7. allianz-centralize-swagger-docs
 
 ~~~
 # Modules & Tools to be Used
