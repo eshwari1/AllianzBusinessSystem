@@ -3,7 +3,7 @@ applications:
 - name: allianz-auth-service
 #  random-route: true
   instances: 1
-  memory: 650M
+  memory: 700M
 #  buildpack: java_buildpack
   path: target/allianz-auth-service-0.0.1-SNAPSHOT.jar
   domain: cfapps.io
